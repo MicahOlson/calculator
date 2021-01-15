@@ -2,7 +2,7 @@
 
 ### A simple arithmetic calculator.
 
-### _By Micah Olson and Andrew Lawson_
+### _By Micah Olson_
 
 ## Technologies Used
 * HTML
@@ -38,5 +38,4 @@ This site allows a user to provide two numbers and adds them together. Subtracti
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Contact Information
-Micah L. Olson micah@fakemail.com  
-Andrew Lawson andy@fakemail.com
+Micah L. Olson micah@fakemail.com
